@@ -20,7 +20,8 @@ However, if you have questions about the administration of the course, you're we
 
 ### Worksheets
 [Pre-Calculus: Functions or Else](https://github.com/steve-zeyu-zhang/fa2022-math110)
-  This chapter is relatively succinct, it forms the essence and fundation of calculus. Some of the topics have already gone through during secondary school. Hence, this is just for revision, because you have to learn what is written in textbooks.
+
+This chapter is relatively succinct, it forms the essence and fundation of calculus. Some of the topics have already gone through during secondary school. Hence, this is just for revision, because you have to learn what is written in textbooks.
 
 ### Recordings
 
