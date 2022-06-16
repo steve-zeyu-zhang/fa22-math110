@@ -6,7 +6,7 @@ Welcome to Introduction to Calculus. The webpage is currently being updated for 
 
 Please note that courses will be taught in Mandarian and lecture notes and recordings would be available shortly after each lecture. You could use these materials for revision if there is something you are still unversed in.
 
-This course will run in hybrid mode this semester 1 2022
+This course will run in hybrid mode this semester 2 2022
 
 ### Admin
 Tutor: Steve Zeyu Zhang
