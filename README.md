@@ -24,7 +24,7 @@ However, if you have questions about the administration of the course, you're we
 ### Lecture Notes
 
 
-### Worksheet
+### Worksheets
 
 
 
