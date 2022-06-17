@@ -8,7 +8,7 @@ Please note that courses will be taught in Mandarin and lecture notes and record
 
 This course will run in hybrid mode this semester 2 2022
 
-### Admin
+### Convener
 Tutor: Steve Zeyu Zhang
 
 Contact: steve.zhang22@imperial.ac.uk
