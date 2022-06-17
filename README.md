@@ -19,9 +19,13 @@ Feel free to post your questions to the newly added issues under each lecture. *
 However, if you have questions about the administration of the course, you're welcome to send me an email :)
 
 ### Worksheets
-[**Pre-Calculus: Functions or Else**](https://github.com/steve-zeyu-zhang/fa2022-math110)
+[**Pre-Calculus: Functions or Else**](https://github.com/steve-zeyu-zhang/fa22-math110/blob/main/worksheets/01.pdf)
 
 >This chapter is relatively succinct, it forms the essence and foundation of calculus. Some of the topics have already gone through during secondary school. Hence, this is just for revision, since you have to learn what is written in textbooks.
+
+
+[**Limits, Differentiation and Derivative I**](https://github.com/steve-zeyu-zhang/fa22-math110/blob/main/worksheets/02.pdf)
+
 
 ### Recordings
 
