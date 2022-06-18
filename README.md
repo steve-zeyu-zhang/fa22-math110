@@ -33,6 +33,9 @@ However, if you have questions about the administration of the course, you're we
 ### Lecture Notes
 
 
+### Coursework
+[**Demidovich Problems**](https://anu365-my.sharepoint.com/:b:/g/personal/u7394442_anu_edu_au/EX1_nwhVMrhPkzNFVx7_HCABU4JD3728-7ocnuzqX1A3LA?e=j72rF9)
+
 
 
 
