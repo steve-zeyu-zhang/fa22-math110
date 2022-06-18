@@ -33,6 +33,9 @@ However, if you have questions about the administration of the course, you're we
 
 
 ### Lecture Notes
+[**Pre-Calculus: Functions or Else**](https://github.com/steve-zeyu-zhang/fa22-math110/blob/main/notes/01.png)
+
+[**Limits, Differentiation and Derivative I**](https://github.com/steve-zeyu-zhang/fa22-math110/blob/main/notes/02.png)
 
 
 ### Coursework
